@@ -1,6 +1,7 @@
 ## To remind you of the basics of statistics...
 
-Each of these are _pseudo-code_, they'll give you an idea of where you're going without a whole bunch of confusing, specialized, technical math symbols.
+Each of these are _pseudo-code_, they'll give you an idea of where you're going 
+without a whole bunch of confusing, specialized, technical math symbols.
 
 If I have a list, like this:
 
@@ -54,7 +55,8 @@ and the median of `data2` is `2.0`
 
 The _sample variance_ of a list is a little trickier, but not too much.
 
-_Variance measures how far a data set is spread out. It is mathematically defined as the average of the squared differences from the mean._
+_Variance measures how far a data set is spread out. 
+It is mathematically defined as the average of the squared differences from the mean._
 
 Count of values in the sample
 
@@ -119,7 +121,9 @@ And if you do it right, your `correlation(data0, data2)` should be about `0.962`
 
 ### Conclusion
 
-Using these are ways of building your code, you should be able to put them into python (or any other language).
+Using these are ways of building your code, you should be able to put them 
+into python (or any other language).
 
 You can always write your own sum() function if you need to.
-Also, in python at least, you can square a number by `(x ** 2.0)` and of course you can also square root a number by `(x ** 0.5)` (cool, huh?).
+Also, in python at least, you can square a number by `(x ** 2.0)` and of course
+you can also square root a number by `(x ** 0.5)` (cool, huh?).

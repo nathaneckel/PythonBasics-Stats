@@ -1,7 +1,9 @@
 # PythonBasics-Stats
 statistics for small datasets
 
-There are four small datasets in this lab. You are to write a python package which contains a series of functions which can analyze these data sets. The package, statzcw, will have a series of python files, each of which implement a standard statistic.
+There are four small datasets in this lab. You are to write a python package which contains 
+a series of functions which can analyze these data sets. The package, statzcw, will have a series 
+of python files, each of which implement a standard statistic.
 
 - zcount(list: List[]) -> float
 - zmean(list: List[]) -> float
@@ -20,7 +22,8 @@ You may only use the following functions to construct your code:
 - python Math function `Math.sqrt()`
 - python normal operators on floats (*, /, +, -, etc)
 
-The four data sets are each a list of two pairs of numbers (X and Y). Each of them are in a CSV file.
+The four data sets are each a list of two pairs of numbers (X and Y). 
+Each of them are in a CSV file.
 
 For each data set (0-3), print out the following statistical measures.
 
